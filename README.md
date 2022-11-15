@@ -25,8 +25,8 @@
   DB_PORT = {DB 접속 Port}  
   DB_USER = {DB 접속 계정}  
   DB_PASSWORD = {DB 접속 계정 비밀번호}  
-  DB_DATABASE = {DB 이름}
-  ACCESS_SECRET = {서버 개인키}
+  DB_DATABASE = {DB 이름}   
+  ACCESS_SECRET = {서버 개인키}   
   REFRESH_SECRET = {서버 개인키}
 
 ---
