@@ -20,7 +20,7 @@
 
 - value 부분은 문자열로 따로 묶지 않는다. ex) SERVER_PORT = "127.0.0.1" (X) -> SERVER_PORT = 127.0.0.1 (O)
 - 입력해야 하는 필수 변수 목록  
-  SERSERVER_PORT = {원하는 포트 번호}
+  SERSERVER_PORT = {원하는 포트 번호}   
   DB_HOST = {DB IP 주소}  
   DB_PORT = {DB 접속 Port}  
   DB_USER = {DB 접속 계정}  
